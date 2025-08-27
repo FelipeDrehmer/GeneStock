@@ -1,16 +1,22 @@
-# flutter_aplication_teste
+# Gene Stock
 
-A new Flutter project.
+Gene Stock é um aplicativo mobile para **controle de estoque residencial**, projetado para ajudar você a gerenciar seus produtos domésticos de forma prática e eficiente.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Gerenciamento de produtos**: adicione, edite e remova itens do seu estoque.
+- **Controle de quantidades**: acompanhe quantos itens estão disponíveis.
+- **Datas de validade**: registre datas de validade para evitar desperdícios.
+- **Histórico de consumo**: visualize o consumo de produtos ao longo do tempo.
+- **Organização doméstica**: mantenha sua casa organizada e reduza desperdícios.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Plataforma Mobile: Flutter
+- Banco de dados: SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/FelipeDrehmer/GeneStock.git
