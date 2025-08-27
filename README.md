@@ -19,4 +19,4 @@ Gene Stock é um aplicativo mobile para **controle de estoque residencial**, pro
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/FelipeDrehmer/GeneStock.git
+   AINDA ESTA EM DESENVOLVIMENTO
